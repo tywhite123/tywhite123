@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Tyler, I am currently a Tools Programmer @ TtGames
+
+Currently working on my own game engine in my spare time 
 
 <!--
 **tywhite123/tywhite123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
